@@ -1,0 +1,5 @@
+python3 -m venv --clear backend_venv
+source backend_venv/bin/activate
+
+
+cloudflared tunnel --url http://localhost:8334

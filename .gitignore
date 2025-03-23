@@ -1,0 +1,6 @@
+.env
+.DS_Store
+backend_venv/
+__pycache__/
+
+test.ipynb
